@@ -1,2 +1,1 @@
-
-dlroW olleH
+Hello World
